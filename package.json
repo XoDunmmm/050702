@@ -11,8 +11,8 @@
   "dependencies": {
     "@element-plus/icons-vue": "2.0.10",
     "@tinymce/tinymce-vue": "5.1",
-    "axios": "1.2.2",
-    "echarts": "5.4.2",
+    "axios": "^1.2.2",
+    "echarts": "^5.4.2",
     "element-plus": "2.2.27",
     "pinia": "2.0.27",
     "pinia-plugin-persist": "1.0",
